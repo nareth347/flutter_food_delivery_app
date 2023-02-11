@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_food_delivery_app/common/constants.dart';
 
-// import 'views/search_category_grid.dart';
-import 'views/search_category_list.dart';
+import 'views/home_page.dart';
+// import 'views/order_details.dart';
+// import 'views/main_page.dart';
 
 // import 'views/find_food_restaurant.dart';
 // import 'views/search_category_list1.dart';
@@ -103,7 +104,7 @@ class MyApp extends StatelessWidget {
       ),
       // initialRoute: SplashPage.routeName,
       // onGenerateRoute: onGenerateRoute,
-      home: SearchCategoryList(),
+      home: HomePage(),
     );
   }
 }

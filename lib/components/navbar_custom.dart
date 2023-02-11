@@ -40,6 +40,7 @@ class NavbarCustom extends StatelessWidget {
                 Text(
                   "Fill in your bio",
                   style: Theme.of(context).textTheme.subtitle1!.copyWith(
+                    color: blackColor,
                         fontWeight: FontWeight.w600,
                         fontSize: 26,
                       ),

@@ -10,3 +10,4 @@ const Color neutral2Color = Color(0xFF2C3A4B);
 const Color neutral4Color = Color(0xFF6D7580);
 const Color neutral5Color = Color(0xFF868C94);
 const Color neutral8Color = Color(0xFFEBEEF2);
+const Color neutral9Color = Color(0xFFF4F6F9);
